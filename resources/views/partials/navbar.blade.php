@@ -8,8 +8,9 @@
                     <div class="col-cell header-logo">                                  
                         <div class="logo-area">
                             <a href="index.html">
-                                <img class="normal-logo" src="{{ asset('public/assets/images/logo-light.png') }} " alt="logo">  
-                                <img class="sticky-logo" src="{{ asset('public/assets/images/logo-dark.png') }} " alt="logo">
+                                {{-- <img class="normal-logo" src="{{ asset('public/assets/images/devoluthon logo-3.png') }} " alt="logo">   --}}
+                                {{-- <img class="sticky-logo" src="{{ asset('public/assets/images/logo-dark.png') }} " alt="logo"> --}}
+                                <img class="logoimg" src="{{ asset('public/assets/images/devoluthon logo-3.png') }}" alt="logo">
                             </a>
                         </div>
                     </div>
@@ -24,12 +25,12 @@
                                         <li>
                                             <a href="{{ route('about') }}">About</a>
                                         </li>
-                                        {{-- <li>
-                                            <a href="{{ route('team') }}">Team</a>
-                                        </li> --}}
                                         <li>
-                                            <a href="{{ route('sponsors') }}">Sponsors</a>
+                                            <a href="{{ route('team') }}">Team</a>
                                         </li>
+                                        {{-- <li>
+                                            <a href="{{ route('sponsors') }}">Sponsors</a>
+                                        </li> --}}
                                         <li>
                                             <a href="{{ route('contact') }}">Contact</a>
                                         </li>
@@ -84,12 +85,12 @@
                 <li>
                     <a href="{{ route('about') }}">About</a>
                 </li>
-                {{-- <li>
-                    <a href="{{ route('team') }}">Team</a>
-                </li> --}}
                 <li>
-                    <a href="{{ route('sponsors') }}">Sponsors</a>
+                    <a href="{{ route('team') }}">Team</a>
                 </li>
+                {{-- <li>
+                    <a href="{{ route('sponsors') }}">Sponsors</a>
+                </li> --}}
                 <li>
                     <a href="{{ route('contact') }}">Contact</a>
                 </li>

@@ -43,7 +43,7 @@
     <div id="pre-load">
         <div id="loader" class="loader">
             <div class="loader-container">
-                <div class='loader-icon'><img src="assets/images/fav.png" alt="Evenio - Events & Conference"></div>
+                <div class='loader-icon'><img src="" alt=""></div>
             </div>
         </div>
     </div>
