@@ -2480,10 +2480,13 @@ body .search-modal .close:hover {
   font-size: 24px;
   font-weight: 600;
   text-decoration: underline;
-  line-height: 1px;
+  line-height: 34px;
   letter-spacing: 0px;
   color: #ffffff;
   margin: 0px 0px 80px 0px;
+}
+.nonebr{
+  display: none;
 }
 .rs-banner.main-home .content-wrap .prelements-heading .title-inner .title {
   font-size: 120px;
