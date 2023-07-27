@@ -103,7 +103,7 @@
                           </div>
                           <div class="info-content">
                               <h4 class="title">Address</h4>
-                              <em>05 kandi BR. New York</em>
+                              <em>RGPV BHOPAL, M.P.</em>
                           </div>
                       </div>
                       <div class="address-list">
@@ -112,7 +112,7 @@
                           </div>
                           <div class="info-content">
                               <h4 class="title">Email</h4>
-                              <em><a href="mailto:support@reactheme.com">support@reactheme.com</a></em>
+                              <em><a href="mailto:support@ecellrgpv.com">support@ecellrgpv.com</a></em>
                           </div>
                       </div>
                       <div class="address-list">
@@ -121,7 +121,7 @@
                           </div>
                           <div class="info-content">
                               <h4 class="title">Phone</h4>
-                              <em>+019988772</em>
+                              <em>+91 7828373231</em>
                           </div>
                       </div>
                   </div>
