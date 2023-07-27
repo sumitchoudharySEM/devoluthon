@@ -826,14 +826,15 @@
         margin: 0px 0px 60px 0px;
     }
     .rs-banner.main-home .content-wrap .prelements-heading .title-inner .title {
-        font-size: 40px;
+        font-size: 37px;
+        letter-spacing: 2px;
         margin: 0px 0px 63px 0px;
     }
     .rs-banner.main-home .content-wrap {
         padding: 190px 0 220px;
     }
     .rs-banner.main-home .content-wrap .underline-text {
-        font-size: 14px;
+        font-size: 12px;
         margin: 0px 0px 76px 0px;
     }
     .readon.btn-text {
