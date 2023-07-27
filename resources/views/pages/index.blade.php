@@ -316,7 +316,7 @@
                     <div class="team-item">
                         <div class="team-inner-wrap">
                             <div class="images-wrap">
-                                <a href="speaker-single.html"><img src="{{ asset('public/assets/images/team/1.jpg')}}" alt="Team"></a>
+                                <img src="{{ asset('public/assets/images/team/1.jpg')}}" alt="Team">
                             </div>
                             <div class="team-content">
                                 <div class="rs-arrow">
@@ -339,7 +339,7 @@
                     <div class="team-item">
                         <div class="team-inner-wrap">
                             <div class="images-wrap">
-                                <a href="speaker-single.html"><img src="{{ asset('public/assets/images/team/2.jpg')}}" alt="Team"></a>
+                                <img src="{{ asset('public/assets/images/team/2.jpg')}}" alt="Team">
                             </div>
                             <div class="team-content">
                                 <div class="rs-arrow">
@@ -361,7 +361,7 @@
                     <div class="team-item">
                         <div class="team-inner-wrap">
                             <div class="images-wrap">
-                                <a href="speaker-single.html"><img src="{{ asset('public/assets/images/team/3.jpg')}}" alt="Team"></a>
+                                <img src="{{ asset('public/assets/images/team/3.jpg')}}" alt="Team">
                             </div>
                             <div class="team-content">
                                 <div class="rs-arrow">
@@ -384,7 +384,7 @@
                     <div class="team-item">
                         <div class="team-inner-wrap">
                             <div class="images-wrap">
-                                <a href="speaker-single.html"><img src="{{ asset('public/assets/images/team/4.jpg')}}" alt="Team"></a>
+                                <img src="{{ asset('public/assets/images/team/4.jpg')}}" alt="Team">
                             </div>
                             <div class="team-content">
                                 <div class="rs-arrow">
@@ -407,7 +407,7 @@
                     <div class="team-item">
                         <div class="team-inner-wrap">
                             <div class="images-wrap">
-                                <a href="speaker-single.html"><img src="{{ asset('public/assets/images/team/5.jpg')}}" alt="Team"></a>
+                                <img src="{{ asset('public/assets/images/team/5.jpg')}}" alt="Team">
                             </div>
                             <div class="team-content">
                                 <div class="rs-arrow">
@@ -429,7 +429,7 @@
                     <div class="team-item">
                         <div class="team-inner-wrap">
                             <div class="images-wrap">
-                                <a href="speaker-single.html"><img src="{{ asset('public/assets/images/team/6.jpg')}}" alt="Team"></a>
+                                <img src="{{ asset('public/assets/images/team/6.jpg')}}" alt="Team">
                             </div>
                             <div class="team-content">
                                 <div class="rs-arrow">
@@ -452,7 +452,7 @@
                     <div class="team-item">
                         <div class="team-inner-wrap">
                             <div class="images-wrap">
-                                <a href="speaker-single.html"><img src="{{ asset('public/assets/images/team/7.jpg')}}" alt="Team"></a>
+                                <img src="{{ asset('public/assets/images/team/7.jpg')}}" alt="Team">
                             </div>
                             <div class="team-content">
                                 <div class="rs-arrow">
@@ -475,7 +475,7 @@
                     <div class="team-item">
                         <div class="team-inner-wrap">
                             <div class="images-wrap">
-                                <a href="speaker-single.html"><img src="{{ asset('public/assets/images/team/8.jpg')}}" alt="Team"></a>
+                                <img src="{{ asset('public/assets/images/team/8.jpg')}}" alt="Team">
                             </div>
                             <div class="team-content">
                                 <div class="rs-arrow">
@@ -498,7 +498,7 @@
                     <div class="team-item">
                         <div class="team-inner-wrap">
                             <div class="images-wrap">
-                                <a href="speaker-single.html"><img src="{{ asset('public/assets/images/team/9.jpg')}}" alt="Team"></a>
+                                <img src="{{ asset('public/assets/images/team/9.jpg')}}" alt="Team">
                             </div>
                             <div class="team-content">
                                 <div class="rs-arrow">

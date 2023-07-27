@@ -4467,10 +4467,11 @@ body .search-modal .close:hover {
   overflow: hidden;
   border-radius: 50%;
 }
-.rs-team.style2 .team-item .team-inner-wrap .images-wrap a img {
+.rs-team.style2 .team-item .team-inner-wrap .images-wrap img {
   border-radius: 50%;
   transform: scale(1);
   transition: 0.3s ease-in-out;
+  cursor: pointer;
 }
 .rs-team.style2 .team-item .team-inner-wrap .team-content {
   text-align: center;
@@ -4559,7 +4560,7 @@ body .search-modal .close:hover {
 .rs-team.style2 .team-item .team-inner-wrap .team-content .social-icons li:last-child {
   margin-right: 0;
 }
-.rs-team.style2 .team-item .team-inner-wrap:hover .images-wrap a img {
+.rs-team.style2 .team-item .team-inner-wrap:hover .images-wrap img {
   transform: scale(1.2);
 }
 .rs-team.style2 .team-item .team-inner-wrap:hover .team-content .rs-arrow {
