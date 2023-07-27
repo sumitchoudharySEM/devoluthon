@@ -150,7 +150,7 @@
                     </div>
                     <div class="col-lg-5">
                         <div class="sec-title">
-                            <span class="sub-text">About Devoluthon</span>
+                            <span class="sub-text">About D'evoluthon</span>
                             <h2 class="title pb-22">
                                 D'evoluthon 2.0, a digital hackathon
                             </h2>

@@ -362,6 +362,32 @@ ul {
   background-repeat: no-repeat;
   background-size: cover;
 }
+/* scroll bar css  */
+/* width */
+::-webkit-scrollbar {
+  width: 7px;
+  border-radius: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  transition: 3s ease;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #fa0368;
+  border-radius: 10px;
+  transition: 3s ease;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #612EA7;
+  border-radius: 10px;
+}
+
 .offwrap {
   cursor: url(images/close.png), auto;
   width: 100%;
