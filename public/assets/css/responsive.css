@@ -836,6 +836,7 @@
     .rs-banner.main-home .content-wrap .underline-text {
         font-size: 12px;
         margin: 0px 0px 76px 0px;
+        line-height: 15px;
     }
     .readon.btn-text {
         padding: 12px 23px 13px 20px;
@@ -872,3 +873,12 @@
 .rs-services.style5 .services-slider.purple-slide .services-item {
     background-image: linear-gradient(220deg, #7E00C796 0%, #7E00C7 100%);
 }
+.rs-timecoun-ceremony .banner-counter5 .coming-soon-part .time_circles div + div span:before{
+    display: none;
+}
+.rs-timecoun-ceremony .banner-counter5 .coming-soon-part .time_circles div + div span:after{
+    display: none;
+}
+.nonebr{
+    display: block;
+  }

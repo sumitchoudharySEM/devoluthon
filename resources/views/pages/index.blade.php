@@ -23,7 +23,7 @@
                     <div class="icon-wrap mb-50">
                         <img src="{{ asset('public/assets/images/banner/style1/brands.png')}}" alt="Images">
                     </div>
-                    <h2 class="underline-text">13-14 August 2023 | RGPV Sports Complex - Bhopal</h2>
+                    <h2 class="underline-text">13-14 August 2023 | <br class="nonebr"> RGPV Sports Complex - Bhopal</h2>
                     <div class="prelements-heading water__slide_yes default text-center">
                         <div class="title-inner">                           
                             <h2 class="title"><span class="watermark">D'evoluthon</span>D'evolu<span>thon</span>2.0</h2>             
