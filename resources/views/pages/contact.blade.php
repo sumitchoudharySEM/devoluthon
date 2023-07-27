@@ -55,8 +55,8 @@
                             <div class="address-text">
                                 <h3 class="title"> Address</h3>
                                 <p class="services-txt">  
-                                    55 Gerad Lane, <br>
-                                    NY 11201, USA 
+                                    Rgpv Gandhinagar, <br>
+                                    Bhopal, MP
                                 </p>
                             </div>
                         </div>
@@ -72,8 +72,7 @@
                             <div class="address-text">
                                 <h3 class="title">Email us</h3>
                                 <p class="services-txt">  
-                                    demo@evenio.org <br>
-                                    demo2@evenio.org
+                                    support@ecellrgpv.com <br>
                                 </p>
                             </div>
                         </div>
@@ -89,8 +88,7 @@
                             <div class="address-text">
                                 <h3 class="title">Call us</h3>
                                 <p class="services-txt">  
-                                    <a href="tel:(+088)589-8745">(+088) 589-8745</a><br>
-                                    <a href="tel:(+088)222-9999">(+088) 222-9999</a>
+                                    <a href="tel:+917828373231">+91 7828373231</a>
                                 </p>
                             </div>
                         </div>
@@ -110,13 +108,13 @@
                         </div>
                     </div>
                     <div class="col-lg-6">
-                        <p class="margin-0">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deser unt mollit anim id est laborum. Lorem ipsum dolor sit amet, conse ctetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis.</p>
+                        <p class="margin-0">We are more than happy to solve all your queries regarding the hackathon, for queries contact:</p>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-lg-6 pr-40 md-pr-15 md-mb-50">
                         <div class="contact-map">
-                            <iframe src="https://maps.google.com/maps?q=rstheme&amp;t=&amp;z=13&amp;ie=UTF8&amp;iwloc=&amp;output=embed"></iframe>
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14656.621408216213!2d77.3619682!3d23.3101216!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x397c663a30403d97%3A0xfda406c043e9ab60!2se-Entrepreneurship%20cell%20%2CRGPV%2C%20Bhopal!5e0!3m2!1sen!2sin!4v1690390749730!5m2!1sen!2sin" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                         </div>
                     </div>
                     <div class="col-lg-6">

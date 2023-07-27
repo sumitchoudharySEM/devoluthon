@@ -45,18 +45,18 @@
                 </div>
                 <div class="col-lg-5">
                     <div class="sec-title">
-                        <span class="sub-text">About Evenio</span>
+                        <span class="sub-text">About D'evoluthon</span>
                         <h2 class="title pb-22">
-                            The Ultimate Business Event WordPress Theme
+                            D'evoluthon 2.0, a digital hackathon
                         </h2>
                         <div class="heading-border-line left-style"></div>
                         <p class="desc margin-0 pt-40 pb-25">
-                            Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo.
+                            cataloged by Entrepreneurship Cell RGPV, will be organized at the RGPV level. Being the first of its kind at our campus, the event aims at encouraging participants to collaborate with mentors, subject matter specialists, data sources, and a network of collaborators to find solutions to the prevailing set of problems.
                         </p>
                         <div class="rs-counter about-style">
                             <div class="row">
                                <div class="col-lg-6 md-mb-30">
-                                   <div class="counter-list">
+                                   {{-- <div class="counter-list">
                                        <div class="counter-icon">
                                            <img src="{{ asset('public/assets/images/counter/icons/1.png')}}" alt="Counter">
                                        </div>
@@ -75,7 +75,7 @@
                                            <div class="rs-count">70</div>
                                            <h4 class="title">Workshops</h4>
                                        </div>
-                                   </div>
+                                   </div> --}}
                                </div> 
                             </div>
                         </div>
@@ -101,7 +101,7 @@
                         <span class="sub-text">Join The Event</span>
                         <h2 class="title pb-25">
                             Our Provided Perks For You<br>
-                            During Conference
+                            During D'evoluthon
                         </h2>
                         <div class="heading-border-line left-style"></div>
                     </div>
@@ -113,7 +113,7 @@
                                 </div>
                                 <div class="services-text">
                                     <h3 class="title"><a href="services-style1.html">Photo Booth</a></h3>
-                                    <p class="services-txt">Quisque placerat vitae scelerise event.</p>
+                                    <p class="services-txt">Photo Booths will be set up for candidates to commemorate their participation via a fun photo.</p>
                                 </div>
                             </div>
                         </div>
@@ -123,8 +123,8 @@
                                     <img src="{{ asset('public/assets/images/event/icons/2.png')}}" alt="Images">
                                 </div>
                                 <div class="services-text">
-                                    <h3 class="title"><a >After Party</a></h3>
-                                    <p class="services-txt">Quisque placerat vitae scelerise event.</p>
+                                    <h3 class="title"><a >Goodies</a></h3>
+                                    <p class="services-txt">Fun activities and quizzes are all set to reward all the deserving winners with amazing swags.</p>
                                 </div>
                             </div>
                         </div>
@@ -134,8 +134,8 @@
                                     <img src="{{ asset('public/assets/images/event/icons/3.png')}}" alt="Images">
                                 </div>
                                 <div class="services-text">
-                                    <h3 class="title"><a >T-shirts</a></h3>
-                                    <p class="services-txt">Quisque placerat vitae scelerise event.</p>
+                                    <h3 class="title"><a >Vouchers</a></h3>
+                                    <p class="services-txt">Our sponsors are set to provide various vouchers and perks to our participants.</p>
                                 </div>
                             </div>
                         </div>
@@ -145,8 +145,8 @@
                                     <img src="{{ asset('public/assets/images/event/icons/4.png')}}" alt="Images">
                                 </div>
                                 <div class="services-text">
-                                    <h3 class="title"><a >Ice Cream</a></h3>
-                                    <p class="services-txt">Quisque placerat vitae scelerise event..</p>
+                                    <h3 class="title"><a >Experience</a></h3>
+                                    <p class="services-txt">Events of such nature not only help one get a grip on their coding abilities, they also are an amazing team bonding exercise.</p>
                                 </div>
                             </div>
                         </div>
@@ -156,8 +156,8 @@
                                     <img src="{{ asset('public/assets/images/event/icons/5.png')}}" alt="Images">
                                 </div>
                                 <div class="services-text">
-                                    <h3 class="title"><a >Vouchers</a></h3>
-                                    <p class="services-txt">Quisque placerat vitae scelerise event.</p>
+                                    <h3 class="title"><a >Ice Cream</a></h3>
+                                    <p class="services-txt">I scream You scream We all scream for ICE CREAM!!</p>
                                 </div>
                             </div>
                         </div>
@@ -168,7 +168,7 @@
                                 </div>
                                 <div class="services-text">
                                     <h3 class="title"><a >Speakers</a></h3>
-                                    <p class="services-txt">Quisque placerat vitae scelerise event.</p>
+                                    <p class="services-txt">Distinguished speakers will bestow us with their incomparable wisdom which every budding coder must seek.</p>
                                 </div>
                             </div>
                         </div>
@@ -192,7 +192,7 @@
     <!-- Services Section End -->
 
     <!-- Team Section Start -->
-    <div class="rs-team style2 bg12 pt-120 pb-50 md-pt-80">
+    {{-- <div class="rs-team style2 bg12 pt-120 pb-50 md-pt-80">
         <div class="container">
             <div class="sec-title text-center mb-60">
                 <span class="sub-text">Speakers</span>
@@ -388,11 +388,11 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> --}}
     <!-- Team Section Start -->
 
     <!-- Our Sponsor Section Start -->
-    <div id="rs-our-sponsor" class="rs-our-sponsor style1 sponsor-about bg15 pt-120 md-pt-70 pb-xl-5">
+    {{-- <div id="rs-our-sponsor" class="rs-our-sponsor style1 sponsor-about bg15 pt-120 md-pt-70 pb-xl-5">
         <div class="container">
             <div class="sec-title text-center mb-65 md-mb-40">
                 <span class="sub-text small">Sponsored By</span>
@@ -477,6 +477,6 @@
         
             </div>
         </div>
-    </div>
+    </div> --}}
     <!-- Our Sponsor Section Start -->
 @endsection
