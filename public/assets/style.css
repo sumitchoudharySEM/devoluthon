@@ -5330,6 +5330,15 @@ body .search-modal .close:hover {
 .rs-our-sponsor.style1.home4-sponsor-style .logo-item .grid-figure {
   background-color: #17039069;
 }
+.rs-our-sponsor .row .logo-item .title-partners{
+  font-size: 16px;
+  line-height: 36px;
+  font-weight: 700;
+  text-align: center;
+}
+.rs-our-sponsor .row .logo-item .title-partners a{
+  color: #000000;
+}
 .rs-our-sponsor.sponsor-about .logo-item .grid-figure {
   border-style: solid;
   border-width: 1px 1px 1px 1px;

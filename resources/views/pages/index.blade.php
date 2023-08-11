@@ -517,6 +517,29 @@
                         </div>
                     </div>
                 </div>
+                <div class="col-lg-3 col-md-6">
+                    <div class="team-item">
+                        <div class="team-inner-wrap">
+                            <div class="images-wrap">
+                                <img src="{{ asset('public/assets/images/team/8.jpg')}}" alt="Team">
+                            </div>
+                            <div class="team-content">
+                                <div class="rs-arrow">
+                                    <div class="curve"></div>
+                                    <div class="point"></div>
+                                </div>
+                                <h3 class="title-name"><a href="speaker-single.html">Ankur Gupta</a></h3>
+                                <div class="team-title">Outreach Partner</div>
+                                <ul class="social-icons">
+                                   {{-- <li><a href="#"><i class="fa fa-facebook"></i></a></li> --}}
+                                   {{-- <li><a href="#"><i class="fa fa-instagram"></i></a></li> --}}
+                                   <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                   <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
         {{-- <div class="team-animate">
@@ -1144,11 +1167,11 @@
         <!-- Contact Section End -->
 
         <!-- Our Sponsor Section Start -->
-        <div id="rs-our-sponsor" class="rs-our-sponsor style1 bg8 pt-120 pb-120 md-pt-75 md-pb-80">
+        <div id="rs-our-sponsor" class="rs-our-sponsor style1 pt-120 pb-120 md-pt-75 md-pb-80">
             <div class="container">
                 <div class="sec-title text-center mb-65">
                     <span class="sub-text small">Meet Our</span>
-                    <h2 class="title white-color pb-35">
+                    <h2 class="title black-color pb-35">
                         Community Partners
                     </h2>
                     <div class="heading-border-line"></div>
@@ -1161,6 +1184,7 @@
                                     <a href="https://reactheme.com/"><img src="assets/images/event/sponsor/1.png" alt="logo-img"></a>
                                 </div>
                             </div>
+                            <h4 class="title-partners"><a href="#">Semikolon</a></h4>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-6 mb-20">
@@ -1170,6 +1194,7 @@
                                     <a href="https://reactheme.com/"><img src="assets/images/event/sponsor/2.png" alt="logo-img"></a>
                                 </div>
                             </div>
+                            <h4 class="title-partners"><a href="#">Partners</a></h4>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-6 mb-20">
@@ -1179,6 +1204,7 @@
                                     <a href="https://reactheme.com/"><img src="assets/images/event/sponsor/3.png" alt="logo-img"></a>
                                 </div>
                             </div>
+                            <h4 class="title-partners"><a href="#">Partners</a></h4>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-6 mb-20">
@@ -1188,6 +1214,7 @@
                                     <a href="https://reactheme.com/"><img src="assets/images/event/sponsor/4.png" alt="logo-img"></a>
                                 </div>
                             </div>
+                            <h4 class="title-partners"><a href="#">Partners</a></h4>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-6 mb-20">
@@ -1197,6 +1224,7 @@
                                     <a href="https://reactheme.com/"><img src="assets/images/event/sponsor/5.png" alt="logo-img"></a>
                                 </div>
                             </div>
+                            <h4 class="title-partners"><a href="#">Partners</a></h4>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-6 mb-20">
@@ -1206,6 +1234,7 @@
                                     <a href="https://reactheme.com/"><img src="assets/images/event/sponsor/6.png" alt="logo-img"></a>
                                 </div>
                             </div>
+                            <h4 class="title-partners"><a href="#">Partners</a></h4>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-6">
@@ -1215,6 +1244,7 @@
                                     <a href="https://reactheme.com/"><img src="assets/images/event/sponsor/7.png" alt="logo-img"></a>
                                 </div>
                             </div>
+                            <h4 class="title-partners"><a href="#">Partners</a></h4>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-6">
@@ -1224,6 +1254,7 @@
                                     <a href="https://reactheme.com/"><img src="assets/images/event/sponsor/8.png" alt="logo-img"></a>
                                 </div>
                             </div>
+                            <h4 class="title-partners"><a href="#">Partners</a></h4>
                         </div>
                     </div>
                 </div>
