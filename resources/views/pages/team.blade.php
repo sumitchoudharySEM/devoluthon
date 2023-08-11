@@ -35,7 +35,7 @@
     <!-- Breadcrumbs End -->
    
     <!-- Team Section Start -->
-    <div id="rs-team" class="rs-team style2 bg12 pt-120 pb-70 md-pt-80">
+    <div id="rs-team" class="rs-team style2 bg12 pt-120 md-pt-80">
         <div class="container pb-50">
             <div class="sec-title text-center mb-60 md-mb-40">
                 <span class="sub-text">E-Cell</span>
