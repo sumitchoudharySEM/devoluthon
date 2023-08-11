@@ -1226,14 +1226,6 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-12">
-                        <div class="btn-part text-center mt-60 md-mt-40">
-                            <a class="readon btn-text" href="sponsors-2.html">
-                                <span>Become a Sponsors</span>
-                                <img src="assets/images/button.png" alt="">
-                            </a>
-                        </div>
-                    </div>
                 </div>
             </div>
         </div>
