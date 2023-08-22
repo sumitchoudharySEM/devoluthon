@@ -5,7 +5,7 @@
                 <div class="col-lg-4 col-md-12 col-sm-12 md-mb-10">
                     <div class="footer-logo mb-40 md-mb-20">
                         {{-- <a href="index.html"><img src="{{ asset('public/assets/images/11.png')}}" alt="Devoluthon Logo"></a> --}}
-                        <a href="">D'EVOLUTHON</a>
+                         <a href="{{ route('index') }}"><img class="logoimg" src="{{ asset('public/assets/images/devoluthon logo-3.png') }}" alt="logo"></a> 
                     </div>
                 </div>
                 <div class="col-lg-8">

@@ -150,7 +150,7 @@
                     </div>
                     <div class="col-lg-5">
                         <div class="sec-title">
-                            <span class="sub-text">About Devoluthon</span>
+                            <span class="sub-text">About D'evoluthon</span>
                             <h2 class="title pb-22">
                                 D'evoluthon 2.0, a digital hackathon
                             </h2>
@@ -302,7 +302,7 @@
         <!-- Event Section End -->  
 
         <!-- Team Section Start -->
-    <div id="rs-team" class="rs-team style2 bg12 pt-120 pb-70 md-pt-80">
+    <div id="rs-team" class="rs-team style2 bg12 pt-120 md-pt-80">
         <div class="container pb-50">
             <div class="sec-title text-center mb-60 md-mb-40">
                 <span class="sub-text">E-Cell</span>
@@ -316,7 +316,7 @@
                     <div class="team-item">
                         <div class="team-inner-wrap">
                             <div class="images-wrap">
-                                <a href="speaker-single.html"><img src="{{ asset('public/assets/images/team/1.jpg')}}" alt="Team"></a>
+                                <img src="{{ asset('public/assets/images/team/1.jpg')}}" alt="Team">
                             </div>
                             <div class="team-content">
                                 <div class="rs-arrow">
@@ -339,7 +339,7 @@
                     <div class="team-item">
                         <div class="team-inner-wrap">
                             <div class="images-wrap">
-                                <a href="speaker-single.html"><img src="{{ asset('public/assets/images/team/2.jpg')}}" alt="Team"></a>
+                                <img src="{{ asset('public/assets/images/team/2.jpg')}}" alt="Team">
                             </div>
                             <div class="team-content">
                                 <div class="rs-arrow">
@@ -361,7 +361,7 @@
                     <div class="team-item">
                         <div class="team-inner-wrap">
                             <div class="images-wrap">
-                                <a href="speaker-single.html"><img src="{{ asset('public/assets/images/team/3.jpg')}}" alt="Team"></a>
+                                <img src="{{ asset('public/assets/images/team/3.jpg')}}" alt="Team">
                             </div>
                             <div class="team-content">
                                 <div class="rs-arrow">
@@ -384,7 +384,7 @@
                     <div class="team-item">
                         <div class="team-inner-wrap">
                             <div class="images-wrap">
-                                <a href="speaker-single.html"><img src="{{ asset('public/assets/images/team/4.jpg')}}" alt="Team"></a>
+                                <img src="{{ asset('public/assets/images/team/4.jpg')}}" alt="Team">
                             </div>
                             <div class="team-content">
                                 <div class="rs-arrow">
@@ -407,7 +407,7 @@
                     <div class="team-item">
                         <div class="team-inner-wrap">
                             <div class="images-wrap">
-                                <a href="speaker-single.html"><img src="{{ asset('public/assets/images/team/5.jpg')}}" alt="Team"></a>
+                                <img src="{{ asset('public/assets/images/team/5.jpg')}}" alt="Team">
                             </div>
                             <div class="team-content">
                                 <div class="rs-arrow">
@@ -429,7 +429,7 @@
                     <div class="team-item">
                         <div class="team-inner-wrap">
                             <div class="images-wrap">
-                                <a href="speaker-single.html"><img src="{{ asset('public/assets/images/team/6.jpg')}}" alt="Team"></a>
+                                <img src="{{ asset('public/assets/images/team/6.jpg')}}" alt="Team">
                             </div>
                             <div class="team-content">
                                 <div class="rs-arrow">
@@ -452,7 +452,7 @@
                     <div class="team-item">
                         <div class="team-inner-wrap">
                             <div class="images-wrap">
-                                <a href="speaker-single.html"><img src="{{ asset('public/assets/images/team/7.jpg')}}" alt="Team"></a>
+                                <img src="{{ asset('public/assets/images/team/7.jpg')}}" alt="Team">
                             </div>
                             <div class="team-content">
                                 <div class="rs-arrow">
@@ -475,7 +475,7 @@
                     <div class="team-item">
                         <div class="team-inner-wrap">
                             <div class="images-wrap">
-                                <a href="speaker-single.html"><img src="{{ asset('public/assets/images/team/8.jpg')}}" alt="Team"></a>
+                                <img src="{{ asset('public/assets/images/team/8.jpg')}}" alt="Team">
                             </div>
                             <div class="team-content">
                                 <div class="rs-arrow">
@@ -498,7 +498,7 @@
                     <div class="team-item">
                         <div class="team-inner-wrap">
                             <div class="images-wrap">
-                                <a href="speaker-single.html"><img src="{{ asset('public/assets/images/team/9.jpg')}}" alt="Team"></a>
+                                <img src="{{ asset('public/assets/images/team/9.jpg')}}" alt="Team">
                             </div>
                             <div class="team-content">
                                 <div class="rs-arrow">
@@ -512,6 +512,29 @@
                                    <li><a href="https://www.instagram.com/_vanshhhh._"><i class="fa fa-instagram"></i></a></li>
                                    {{-- <li><a href="https://twitter.com/Aarya1504"><i class="fa fa-twitter"></i></a></li> --}}
                                    <li><a href="https://www.linkedin.com/in/vanshsaxena-vs"><i class="fa fa-linkedin"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6">
+                    <div class="team-item">
+                        <div class="team-inner-wrap">
+                            <div class="images-wrap">
+                                <img src="{{ asset('public/assets/images/team/8.jpg')}}" alt="Team">
+                            </div>
+                            <div class="team-content">
+                                <div class="rs-arrow">
+                                    <div class="curve"></div>
+                                    <div class="point"></div>
+                                </div>
+                                <h3 class="title-name"><a href="speaker-single.html">Ankur Gupta</a></h3>
+                                <div class="team-title">Outreach Partner</div>
+                                <ul class="social-icons">
+                                   {{-- <li><a href="#"><i class="fa fa-facebook"></i></a></li> --}}
+                                   {{-- <li><a href="#"><i class="fa fa-instagram"></i></a></li> --}}
+                                   <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                   <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -1142,5 +1165,101 @@
             
         </div>
         <!-- Contact Section End -->
+
+        <!-- Our Sponsor Section Start -->
+        <div id="rs-our-sponsor" class="rs-our-sponsor style1 pt-120 pb-120 md-pt-75 md-pb-80">
+            <div class="container">
+                <div class="sec-title text-center mb-65">
+                    <span class="sub-text small">Meet Our</span>
+                    <h2 class="title black-color pb-35">
+                        Community Partners
+                    </h2>
+                    <div class="heading-border-line"></div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-3 col-md-6 col-6 mb-20">
+                        <div class="logo-item">
+                            <div class="grid-figure">
+                                <div class="logo-img">
+                                    <a href="https://reactheme.com/"><img src="assets/images/event/sponsor/1.png" alt="logo-img"></a>
+                                </div>
+                            </div>
+                            <h4 class="title-partners"><a href="#">Semikolon</a></h4>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-6 mb-20">
+                        <div class="logo-item">
+                            <div class="grid-figure">
+                                <div class="logo-img">
+                                    <a href="https://reactheme.com/"><img src="assets/images/event/sponsor/2.png" alt="logo-img"></a>
+                                </div>
+                            </div>
+                            <h4 class="title-partners"><a href="#">Partners</a></h4>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-6 mb-20">
+                        <div class="logo-item">
+                            <div class="grid-figure">
+                                <div class="logo-img">
+                                    <a href="https://reactheme.com/"><img src="assets/images/event/sponsor/3.png" alt="logo-img"></a>
+                                </div>
+                            </div>
+                            <h4 class="title-partners"><a href="#">Partners</a></h4>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-6 mb-20">
+                        <div class="logo-item">
+                            <div class="grid-figure">
+                                <div class="logo-img">
+                                    <a href="https://reactheme.com/"><img src="assets/images/event/sponsor/4.png" alt="logo-img"></a>
+                                </div>
+                            </div>
+                            <h4 class="title-partners"><a href="#">Partners</a></h4>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-6 mb-20">
+                        <div class="logo-item">
+                            <div class="grid-figure">
+                                <div class="logo-img">
+                                    <a href="https://reactheme.com/"><img src="assets/images/event/sponsor/5.png" alt="logo-img"></a>
+                                </div>
+                            </div>
+                            <h4 class="title-partners"><a href="#">Partners</a></h4>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-6 mb-20">
+                        <div class="logo-item">
+                            <div class="grid-figure">
+                                <div class="logo-img">
+                                    <a href="https://reactheme.com/"><img src="assets/images/event/sponsor/6.png" alt="logo-img"></a>
+                                </div>
+                            </div>
+                            <h4 class="title-partners"><a href="#">Partners</a></h4>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-6">
+                        <div class="logo-item">
+                            <div class="grid-figure">
+                                <div class="logo-img">
+                                    <a href="https://reactheme.com/"><img src="assets/images/event/sponsor/7.png" alt="logo-img"></a>
+                                </div>
+                            </div>
+                            <h4 class="title-partners"><a href="#">Partners</a></h4>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-6">
+                        <div class="logo-item">
+                            <div class="grid-figure">
+                                <div class="logo-img">
+                                    <a href="https://reactheme.com/"><img src="assets/images/event/sponsor/8.png" alt="logo-img"></a>
+                                </div>
+                            </div>
+                            <h4 class="title-partners"><a href="#">Partners</a></h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Our Sponsor Section Start -->
 
 @endsection

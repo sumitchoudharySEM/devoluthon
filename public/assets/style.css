@@ -362,6 +362,32 @@ ul {
   background-repeat: no-repeat;
   background-size: cover;
 }
+/* scroll bar css  */
+/* width */
+::-webkit-scrollbar {
+  width: 7px;
+  border-radius: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  transition: 3s ease;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #fa0368;
+  border-radius: 10px;
+  transition: 3s ease;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #612EA7;
+  border-radius: 10px;
+}
+
 .offwrap {
   cursor: url(images/close.png), auto;
   width: 100%;
@@ -4441,10 +4467,11 @@ body .search-modal .close:hover {
   overflow: hidden;
   border-radius: 50%;
 }
-.rs-team.style2 .team-item .team-inner-wrap .images-wrap a img {
+.rs-team.style2 .team-item .team-inner-wrap .images-wrap img {
   border-radius: 50%;
   transform: scale(1);
   transition: 0.3s ease-in-out;
+  cursor: pointer;
 }
 .rs-team.style2 .team-item .team-inner-wrap .team-content {
   text-align: center;
@@ -4533,7 +4560,7 @@ body .search-modal .close:hover {
 .rs-team.style2 .team-item .team-inner-wrap .team-content .social-icons li:last-child {
   margin-right: 0;
 }
-.rs-team.style2 .team-item .team-inner-wrap:hover .images-wrap a img {
+.rs-team.style2 .team-item .team-inner-wrap:hover .images-wrap img {
   transform: scale(1.2);
 }
 .rs-team.style2 .team-item .team-inner-wrap:hover .team-content .rs-arrow {
@@ -5302,6 +5329,15 @@ body .search-modal .close:hover {
 }
 .rs-our-sponsor.style1.home4-sponsor-style .logo-item .grid-figure {
   background-color: #17039069;
+}
+.rs-our-sponsor .row .logo-item .title-partners{
+  font-size: 16px;
+  line-height: 36px;
+  font-weight: 700;
+  text-align: center;
+}
+.rs-our-sponsor .row .logo-item .title-partners a{
+  color: #000000;
 }
 .rs-our-sponsor.sponsor-about .logo-item .grid-figure {
   border-style: solid;
